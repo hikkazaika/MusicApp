@@ -1,8 +1,24 @@
-# React + Vite
+# Простое музыкальное "приложение"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+~~Привет~~ Hello world, для меня это **небольшой шаг** с мертвой точки, самурай обрел путь? Пока не знаю...
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Планы
+
+ 1. Исправить и доработать приложение
+ 2. Набить руки и голову (*чем-то полезным кое-то веки*)
+ 3. ~~Еб%!*@~~ работать дальше
+ 
+ ## Благодарности
+ ***@sentieroJsDev*** по его видео сделана изначальная версия. Скрывать это думаю не стоит.
+ [Оригинал от ***@sentieroJsDev***](https://www.youtube.com/watch?v=ILkLgKGgels&ab_channel=sentiero)
+
+Спасибо ***Шизу*** (*моему коту*), что всю ночь просидел на коленях, смотря как на умалишённого, ибо спать надо, а не кодить в **3:00**...
+
+## Технологии
+
+ - React (jsx)
+ - Material UI
+ - styled
+ - SCSS
+ - И ещё какие-то плюшки, вроде полезные, но нужно копаться в каждой
